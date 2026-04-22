@@ -1,3 +1,4 @@
+#this is docker-compose file
 services:
   notes-app:
     build:
